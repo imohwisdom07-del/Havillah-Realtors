@@ -99,7 +99,6 @@ export const LISTINGS = [
   },
 ]
 
-// ── Additional listings from live site ───────────────────────────────────────
 export const MORE_LISTINGS = [
   {
     id: 4,

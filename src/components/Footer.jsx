@@ -137,9 +137,7 @@ export default function Footer() {
           <p className="font-sans text-xs text-stone-600">
             © {year} Havillah Realtors. All rights reserved. Lagos, Nigeria.
           </p>
-          <p className="font-sans text-xs text-stone-600">
-            Built with <span className="text-terra-600">◆</span> by Claude AI · Concept Demo
-          </p>
+          
         </div>
       </div>
     </footer>
